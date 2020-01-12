@@ -1,2 +1,2 @@
-# DonateBook
-一个用cocos creator实现的拼图小游戏
+# hello-world
+Hello world new project template.
